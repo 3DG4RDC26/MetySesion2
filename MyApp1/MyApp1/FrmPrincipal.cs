@@ -32,7 +32,9 @@ namespace MyApp1
       private void btnEvaluar_Click(object sender, EventArgs e)
       {
          Persona p = new Persona();
-
+         Persona.Nombre = tbNombre.Text;
+         Persona.FechaNac = dtpFechaNac.Value;
+         MessageBox.Show(Persona.EvaluarEdad());
       }
    }
 }
