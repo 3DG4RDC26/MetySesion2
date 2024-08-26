@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion2\\Sesion2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{222C640A-351C-47AC-80EF-BAE01C8FCD68}|Sesion2.csproj|c:\\users\\labc205\\desktop\\semestreiied\\sesion2\\sesion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222C640A-351C-47AC-80EF-BAE01C8FCD68}|Sesion2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222C640A-351C-47AC-80EF-BAE01C8FCD68}|Sesion2.csproj|c:\\users\\labc205\\desktop\\semestreiied\\sesion2\\sesion2\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222C640A-351C-47AC-80EF-BAE01C8FCD68}|Sesion2.csproj|solutionrelative:clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion2\\Sesion2\\clases\\Persona.cs",
+              "RelativeDocumentMoniker": "clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion2\\Sesion2\\clases\\Persona.cs",
+              "RelativeToolTip": "clases\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:29:10.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion2\\Sesion2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion2\\Sesion2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwBMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:27:04.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
