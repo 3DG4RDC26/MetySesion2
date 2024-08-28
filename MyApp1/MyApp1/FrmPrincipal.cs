@@ -8,7 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using MyApp1.clases;
+using MyApp1.Properties; /*Cambie MyApp1.clases por MyApp.Properties y ya ejecuta el codigo y 
+                          muestra el public string EvaluarEdad()*/
 
 namespace MyApp1
 {
@@ -31,10 +32,10 @@ namespace MyApp1
 
       private void btnEvaluar_Click(object sender, EventArgs e)
       {
-         Persona p = new Persona();
-         Persona.Nombre = tbNombre.Text;
-         Persona.FechaNac = dtpFechaNac.Value;
-         MessageBox.Show(Persona.EvaluarEdad());
-      }
-   }
+        Persona p = new Persona();
+        p.Nombre = tbNombre.Text;
+        p.FechaNac = dtpFechaNac.Value;
+        MessageBox.Show(p.EvaluarEdad());
+        }
+    }
 }
