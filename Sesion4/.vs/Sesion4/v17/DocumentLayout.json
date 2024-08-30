@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion2\\MetySesion2\\Sesion4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{26F94207-8925-49C2-9160-5C00FBEEEE3B}|Sesion4.csproj|C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion2\\MetySesion2\\Sesion4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26F94207-8925-49C2-9160-5C00FBEEEE3B}|Sesion4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F94207-8925-49C2-9160-5C00FBEEEE3B}|Sesion4.csproj|c:\\users\\labc205\\desktop\\semestreiied\\sesion2\\metysesion2\\sesion4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F94207-8925-49C2-9160-5C00FBEEEE3B}|Sesion4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26F94207-8925-49C2-9160-5C00FBEEEE3B}|Sesion4.csproj|c:\\users\\labc205\\desktop\\semestreiied\\sesion2\\metysesion2\\sesion4\\clases\\rrhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26F94207-8925-49C2-9160-5C00FBEEEE3B}|Sesion4.csproj|solutionrelative:clases\\rrhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26F94207-8925-49C2-9160-5C00FBEEEE3B}|Sesion4.csproj|C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion2\\MetySesion2\\Sesion4\\clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26F94207-8925-49C2-9160-5C00FBEEEE3B}|Sesion4.csproj|solutionrelative:clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F94207-8925-49C2-9160-5C00FBEEEE3B}|Sesion4.csproj|C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion2\\MetySesion2\\Sesion4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{26F94207-8925-49C2-9160-5C00FBEEEE3B}|Sesion4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +34,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion2\\MetySesion2\\Sesion4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion2\\MetySesion2\\Sesion4\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAewBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:42:27.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RRHH.cs",
               "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion2\\MetySesion2\\Sesion4\\clases\\RRHH.cs",
               "RelativeDocumentMoniker": "clases\\RRHH.cs",
               "ToolTip": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion2\\MetySesion2\\Sesion4\\clases\\RRHH.cs",
               "RelativeToolTip": "clases\\RRHH.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T13:45:00.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion2\\MetySesion2\\Sesion4\\clases\\Empleado.cs",
               "RelativeDocumentMoniker": "clases\\Empleado.cs",
@@ -55,14 +72,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion2\\MetySesion2\\Sesion4\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion2\\MetySesion2\\Sesion4\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T13:17:11.716Z"
+              "WhenOpened": "2024-08-30T13:17:11.716Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
