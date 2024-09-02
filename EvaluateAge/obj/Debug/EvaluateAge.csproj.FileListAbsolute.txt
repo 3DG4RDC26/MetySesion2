@@ -1,0 +1,10 @@
+C:\Users\labc205\Desktop\SemestreIIEd\Sesion2\MetySesion2\EvaluateAge\bin\Debug\EvaluateAge.exe.config
+C:\Users\labc205\Desktop\SemestreIIEd\Sesion2\MetySesion2\EvaluateAge\bin\Debug\EvaluateAge.exe
+C:\Users\labc205\Desktop\SemestreIIEd\Sesion2\MetySesion2\EvaluateAge\bin\Debug\EvaluateAge.pdb
+C:\Users\labc205\Desktop\SemestreIIEd\Sesion2\MetySesion2\EvaluateAge\obj\Debug\EvaluateAge.csproj.AssemblyReference.cache
+C:\Users\labc205\Desktop\SemestreIIEd\Sesion2\MetySesion2\EvaluateAge\obj\Debug\EvaluateAge.Form1.resources
+C:\Users\labc205\Desktop\SemestreIIEd\Sesion2\MetySesion2\EvaluateAge\obj\Debug\EvaluateAge.Properties.Resources.resources
+C:\Users\labc205\Desktop\SemestreIIEd\Sesion2\MetySesion2\EvaluateAge\obj\Debug\EvaluateAge.csproj.GenerateResource.cache
+C:\Users\labc205\Desktop\SemestreIIEd\Sesion2\MetySesion2\EvaluateAge\obj\Debug\EvaluateAge.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Desktop\SemestreIIEd\Sesion2\MetySesion2\EvaluateAge\obj\Debug\EvaluateAge.exe
+C:\Users\labc205\Desktop\SemestreIIEd\Sesion2\MetySesion2\EvaluateAge\obj\Debug\EvaluateAge.pdb
