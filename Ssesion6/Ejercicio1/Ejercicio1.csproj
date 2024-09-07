@@ -84,6 +84,7 @@
   <ItemGroup>
     <Content Include="img\agregar-producto.png" />
     <Content Include="img\reference\link.txt" />
+    <None Include="Resources\herramienta-de-copia.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
