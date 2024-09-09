@@ -1,0 +1,3 @@
+C:\Users\labc205\Desktop\SemestreIIEd\MetySesion2\Sesion7\Ejercicio1\obj\Release\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\labc205\Desktop\SemestreIIEd\MetySesion2\Sesion7\Ejercicio1\obj\Release\Ejercicio1.Form1.resources
+C:\Users\labc205\Desktop\SemestreIIEd\MetySesion2\Sesion7\Ejercicio1\obj\Release\Ejercicio1.csproj.GenerateResource.cache
